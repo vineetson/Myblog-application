@@ -5,7 +5,7 @@
 ## Overview
 ### Welcome to the Enhanced Full-Stack Web Application, a dynamic and feature-rich project that seamlessly blends Python, HTML, CSS, JSON, Flask, and MongoDB to create a captivating user experience. Whether you're a developer looking to enhance your skills or an enthusiast eager to explore the possibilities of modern web development, this project is your gateway to a world of endless opportunities.
 
-##Features
+## Features
 ### 1. Full-Stack Brilliance: This project represents the pinnacle of full-stack development, utilizing a diverse tech stack to deliver a comprehensive web experience.
 ### 2. Real-time Dashboard: Watch your data come to life with a beautifully designed, real-time dashboard. Every entry you add to the application instantly populates the dashboard, providing you with immediate feedback and insights.
 ### 3. MongoDB Integration: Leverage the power of MongoDB, a highly scalable and flexible NoSQL database, to store and retrieve data efficiently. MongoDB ensures your data is always accessible and secure.
