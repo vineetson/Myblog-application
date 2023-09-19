@@ -16,7 +16,8 @@
 
 ## Get Started
 ### 1. Clone this repository to your local machine.
-### 2. Install the necessary dependencies mentioned in the project's documentation.
+### 2. Install the necessary dependencies (use terminal or cmd) mentioned in the project's documentation. 
+      > pip install -r requirements.txt
 ### 3. Configure MongoDB to work with your application.
 ### 4. Run the app locally to explore its features.
 ### 5. Contribute to its enhancement by opening issues or submitting pull requests.
